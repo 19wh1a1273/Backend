@@ -1,0 +1,12 @@
+.header {
+    background-color: #3498db;
+    padding: 20px;
+    color: white;
+  }
+  
+  .link {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
